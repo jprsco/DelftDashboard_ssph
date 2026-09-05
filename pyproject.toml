@@ -31,13 +31,13 @@ dependencies = [
     "cht_cyclones@ git+https://github.com/deltares-research/cht_cyclones.git",
     "cht_sfincs@ git+https://github.com/deltares-research/cht_sfincs.git",
     "cht_delft3dfm@ git+https://github.com/deltares-research/cht_delft3dfm.git",
-    "cht_utils@ git+https://github.com/deltares-research/cht_utils.git",
+    "cht_utils@ git+https://github.com/jprsco/cht_utils_ssph.git",
     "cht_meteo@ git+https://github.com/deltares-research/cht_meteo.git",
     "cht_nesting@ git+https://github.com/deltares-research/cht_nesting.git",
     "cht_hurrywave@ git+https://github.com/deltares-research/cht_hurrywave.git",
     "cht_tide@ git+https://github.com/deltares-research/cht_tide.git",
     "cht_tiling@ git+https://github.com/deltares-research/cht_tiling.git",
-	"cht_tsunami@ git+https://github.com/Deltares-research/cht_tsunami_ssph.git",
+	"cht_tsunami@ git+https://github.com/jprsco/cht_tsunami_ssph.git",
 	"hydromt_hurrywave@ https://github.com/Deltares-research/hydromt_hurrywave.git,
 	"cosmos@ git+https:// https://github.com/jprsco/CoSMoS_ssph.git"
 ]
