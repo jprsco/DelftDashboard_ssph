@@ -35,7 +35,7 @@ dependencies = [
     "cht_meteo@ git+https://github.com/jprsco/cht_meteo_ssph.git",
     "cht_nesting@ git+https://github.com/jprsco/cht_nesting_ssph.git",
     "cht_hurrywave@ git+https://github.com/jprsco/cht_hurrywave_ssph.git",
-    "cht_tide@ git+https://github.com/deltares-research/cht_tide.git",
+    "cht_tide@ git+https://github.com/jprsco/cht_tide_ssph.git",
     "cht_tiling@ git+https://github.com/jprsco/cht_tiling_ssph.git",
 	"cht_tsunami@ git+https://github.com/jprsco/cht_tsunami_ssph.git",
 	"hydromt_hurrywave@ git+https://github.com/jprsco/hydromt_hurrywave_ssph.git",
