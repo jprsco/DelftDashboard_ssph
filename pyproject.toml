@@ -39,6 +39,7 @@ dependencies = [
     "cht_tiling@ git+https://github.com/jprsco/cht_tiling_ssph.git",
 	"cht_tsunami@ git+https://github.com/jprsco/cht_tsunami_ssph.git",
 	"hydromt_hurrywave@ git+https://github.com/jprsco/hydromt_hurrywave_ssph.git",
+	"hydromt_sfincs@ git+https://github.com/jprsco/hydromt_sfincs_ssph.git",
 	"cosmos@ git+https://github.com/jprsco/cosmos_ssph.git"
 ]
 dynamic = ["version"]
